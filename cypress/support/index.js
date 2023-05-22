@@ -1,0 +1,1 @@
+import 'cypress-promise/register';

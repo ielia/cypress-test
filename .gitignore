@@ -1,0 +1,19 @@
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# The whole .idea folder
+/.idea/
+
+# File-based project format
+*.iws
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Node modules
+node_modules/
